@@ -1,13 +1,13 @@
 # Skin_lesions_Calssification_CNN
 This project is based on automatic skin lessions cancer classification using CNN model.
 
-## Dependence
-*python
-*keras
-*tensorflow
-*numpy
-*pandas
-*matplotlib
+## Dependence\
+*python\
+*keras\
+*tensorflow\
+*numpy\
+*pandas\
+*matplotlib\
 
 # Accuracy on our modes is 79%
 ## The Dataset
