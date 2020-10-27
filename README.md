@@ -1,5 +1,5 @@
 # Skin_lesions_Calssification_CNN
-\This project is based on automatic skin lessions cancer classification using CNN model.
+This project is based on automatic skin lessions cancer classification using CNN model.
 
 ## Dependence
 *python\
